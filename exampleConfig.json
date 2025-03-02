@@ -1,8 +1,8 @@
 {
   "engineVersion": "VER_UE5_1",
-  "exportsDir": "D:\\Projects\\PalworldModding\\devkit\\mod_tools\\FModel\\Output\\Exports",
-  "outputDir": "D:\\Projects\\PalworldModding\\korsMods\\ModDevelopment\\PakMods\\korsLuckierLoot_P",
-  "mappingPath": "D:\\Projects\\PalworldModding\\devkit\\Mappings.usmap",
+  "exportsDir": "D:\\PalworldModding\\FModel\\Output\\Exports",
+  "outputDir": "D:\\PalworldModding\\Out\\korsLuckierLoot_P",
+  "mappingPath": "D:\\PalworldModding\\Mappings.usmap",
   "assetPath": "Pal\\Content\\Pal\\DataTable\\Item",
   "assetName": "DT_ItemLotteryDataTable.uasset",
   "tableName": "DT_ItemLotteryDataTable",
@@ -13,5 +13,5 @@
   "cashChunkAmount": 100,
   "cashMultiplier": 100.0,
   "doUnrealPak": true,
-  "unrealPakDir": "D:\\Projects\\PalworldModding\\devkit\\mod_tools\\UnrealPak"
+  "unrealPakDir": "D:\\PalworldModding\\UnrealPak"
 }
